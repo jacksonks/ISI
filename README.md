@@ -1,2 +1,2 @@
 # ISI
-Introdução a Ssistems de Informação
+Introdução a Sistemas de Informação
